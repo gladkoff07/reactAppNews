@@ -1,0 +1,17 @@
+.banner {
+  padding: 10px 0;
+
+  &__title {
+    padding: 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: #090a0a;
+  }
+
+  &__info {
+    margin-top: 8px;
+    padding: 0;
+    font-size: 12px;
+    color: #6c7072;
+  }
+}
